@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine Faidi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Dibrah**
+- 🔭 I’m currently working As Freenlcer
 
 - 🌱 I’m currently learning **More About Backend development**
 
